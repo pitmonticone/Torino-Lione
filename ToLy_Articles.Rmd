@@ -19,6 +19,14 @@ knitr::opts_chunk$set(
 * **04/08/2019** [Tav Torino-Lione, gli ingegneri bocciano l’analisi costi-benefici | Carlo Andrea Finotto](https://www.ilsole24ore.com/art/tav-torino-lione-ingegneri-bocciano-analisi-scelta-sostenibile-e-strategica-ACOZLtc)
 * **05/08/2019** [Tav, tra opere strategiche e analisi costi-benefici: la replica | Francesco Ramella et al.](https://www.ilsole24ore.com/art/tav-opere-strategiche-e-analisi-costi-benefici-replica-ACdu8Ld)
 
+### Istituto Bruno Leoni
+
+* **30/10/2014** [Tav, i conti non tornano (e non da oggi) | Francesco Ramella](http://www.brunoleoni.it/tav-i-conti-non-tornano-e-non-da-oggi)
+* **22/05/2018** [Tav Torino-Lione, ecco perché lo stop è possibile | Francesco Ramella](http://www.brunoleoni.it/tav-torino-lione-ecco-perche-lo-stop-e-possibile)
+* **15/03/2019** [TAV e politica delle infrastrutture | Alberto Mingardi](http://www.brunoleoni.it/tav-e-politica-delle-infrastrutture)
+
+
+
 ### lavoce.info 
 
 * **31/07/2018** [La project review e la ferrovia Torino-Lione | Andrea Boitani](https://www.lavoce.info/archives/54463/le-project-review-e-la-torino-lione/)
