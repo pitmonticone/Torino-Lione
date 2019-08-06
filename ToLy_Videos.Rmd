@@ -1,5 +1,5 @@
 ---
-title: "Videos"
+title: "Video"
 output:
  prettydoc::html_pretty:
     theme: cayman
@@ -45,7 +45,7 @@ knitr::opts_chunk$set(
 #### Transport Research Lab 
 * **25/06/2019** [ACB Torino-Lione | Pasquali e Ramella](https://www.youtube.com/watch?v=nat_-8_Z9Gk&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=8)
 
-# RAI 
+# Rai 
 
 #### Agorà
 * **13/02/2019** [L'ora della veritav](https://www.raiplay.it/video/2019/02/Tav---14022019-5ac524c9-7bd3-4c94-8a44-d96a7f2afe4e.html)
