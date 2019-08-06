@@ -1,0 +1,21 @@
+---
+title: "Articoli"
+output:
+ prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+    toc: true
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+## La voce
+* **14/11/2018** [TAV Torino-Lione | Ponti e Foietta a Porta a Porta](https://www.youtube.com/watch?v=igd2M7ZU2xk&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=2&t=0s&frags=pl%2Cwn)
+
+## Il Sole 24 Ore
+* **14/11/2018** [TAV Torino-Lione | Ponti e Foietta a Porta a Porta](https://www.youtube.com/watch?v=igd2M7ZU2xk&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=2&t=0s&frags=pl%2Cwn)
