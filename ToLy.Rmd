@@ -1,0 +1,17 @@
+---
+title: "TAV Torino-Lione"
+author: "Pietro Monticone"
+date: '`r Sys.Date()` | Turin University'
+output:
+ prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+    toc: true
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+```
