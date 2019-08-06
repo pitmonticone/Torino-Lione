@@ -1,8 +1,8 @@
-# Turin-Lyon 
+# Torino-Lione
 
-* Articles
-* Technical Papers & Reports
-* Videos
+* Articoli
+* Papers e Reports Tecnici
+* Video
 * Slides
 
 
