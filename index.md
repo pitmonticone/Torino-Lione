@@ -3,6 +3,6 @@
 
 * Articoli
 * Papers & Reports Tecnici
-* [Video](ToLy_Videos.html)
+* [Video](https://github.com/pitmonticone/Torino-Lione/ToLy_Videos.html)
 * Slides
 
