@@ -48,7 +48,7 @@ knitr::opts_chunk$set(
 # Rai 
 
 #### Agorà
-* **13/02/2019** [L'ora della veritav](https://www.raiplay.it/video/2019/02/Tav---14022019-5ac524c9-7bd3-4c94-8a44-d96a7f2afe4e.html)
+* **13/02/2019** [L'ora della veritav](https://www.raiplay.it/video/2019/02/Agora-08f662e7-67fc-4a1f-ad11-281e5b366715.html)
 
 #### Report 
 * **06/05/2019** [Dentro il tunnel](https://www.raiplay.it/video/2019/05/Dentro-il-tunnel---06052019-02262afb-604e-4413-b196-47fcfd972c2a.html)
