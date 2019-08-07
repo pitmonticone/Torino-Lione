@@ -20,6 +20,7 @@ knitr::opts_chunk$set(
 * **14/11/2018** [TAV Torino-Lione | Ponti e Foietta a Porta a Porta](https://www.youtube.com/watch?v=VNcj9q17oqM&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=3&t=0s)
 * **20/02/2019** [TAV Torino-Lione | Giuricin a LiberiOltre 1](https://www.youtube.com/watch?v=JHsgtkEcWGg&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=41&frags=pl%2Cwn)
 * **08/03/2019** [TAV Torino-Lione | Ponti a Open](https://www.youtube.com/watch?v=igd2M7ZU2xk&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=2&t=0s&frags=pl%2Cwn)
+* **28/03/2019** [TAV Torino-Lione | Ponti a Fatti & Misfatti](https://www.youtube.com/watch?v=2M5rboUbTRU&feature=youtu.be)
 * **25/07/2019** [TAV Torino-Lione | Ponti e Giuricin a Sky Tg24 Economia](https://www.youtube.com/watch?v=H57gsZftPB8&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=9&t=0s)
 * **30/07/2019** [TAV Torino-Lione | Giuricin a LiberiOltre 2](https://www.youtube.com/watch?v=Yt2txVsxIqQ&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=6&t=0s)
 * **30/07/2019** [TAV Torino-Lione | Ramella a Unomattina](https://www.youtube.com/watch?v=zKJA0T93iV4)
