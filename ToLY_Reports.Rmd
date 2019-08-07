@@ -1,5 +1,5 @@
 ---
-title: "Bibliografia"
+title: "Torino-Lione | Bibliografia"
 output:
  prettydoc::html_pretty:
     theme: cayman
