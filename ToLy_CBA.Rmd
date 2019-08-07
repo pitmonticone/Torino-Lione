@@ -1,0 +1,33 @@
+---
+title: "TAV Torino-Lione | Analisi"
+output:
+ prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+    toc: true
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+* **05/2014** [Essai d’analyse coûts-benefices de la ligne ferroviaire Lyon-Turin | Rémy Prud’homme](http://www.presidioeuropa.net/blog/wp-content/uploads/2014/11/2014-ACB-Lyon-Turin-Rémy-Prudhomme.pdf)
+
+## Ministero Infrastrutture e Trasporti
+* **12/02/2019** [Analisi costi-benefici del Gruppo di Lavoro sulla valutazione dei progetti](http://www.mit.gov.it/sites/default/files/media/notizia/2019-02/ACB%20nuovo%20collegamento%20ferroviario%20Torino%20-%20Lione.pdf)
+* **12/02/2019** [Relazione tecnico-giuridica](http://www.mit.gov.it/sites/default/files/media/notizia/2019-02/Relazione%20tecnico-giuridica%20Torino-Lione.pdf)
+
+## Osservatorio Torino-Lione
+* **05/2007** [Quaderno 1 | Linea storica - Tratta di valico](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/Quaderno1.pdf)
+* **06/2007** [Quaderno 2 | Scenari di traffico - Arco Alpino](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/Quaderno2.pdf)
+* **12/2007** [Quaderno 3 | Linea storica - Tratta di valle](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/Quaderno3.pdf)
+* **02/2008** [Quaderno 4 | Intermodalità - Centri d'interscambio e Autostrade ferroviarie](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/Quaderno4.pdf)
+* **02/2008** [Quaderno 5 | Valutazione dei progetti - Esternalità e ricadute territoriali, costi e benefici, finanza di progetto](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/Quaderno5.pdf)
+* **04/2009** [Quaderno 6a | Territorio - Basi conoscitive](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/Quaderno6_a.pdf)
+* **07/2008** [Quaderno 7 | Punti di accordo per la progettazione della nuova linea e per le nuove politiche di trasporto per il territorio - Appendice - Potenzialità del nodo ferroviario di Torino](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/Quaderno7.pdf)
+* **12/2011** [Quaderno 8 | Analisi Costi-Benefici : Analisi globale e ricadute sul territorio](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/quaderno8.pdf)
+* **13/11/2018** [Quaderno 11 | Contributi tecnici per una corretta valutazione economica degli interventi di adeguamento della linea ferroviaria Torino-Lione](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/quaderno11.pdf)
+* **28/12/2018** [Quaderno 12 | Contributi tecnico-ambientali per una corretta valutazione economica degli interventi di adeguamento della linea ferroviaria Torino-Lione](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/quaderno12.pdf)
+* **14/12/2019** [Quaderno 13 | Lettura critica della ACB sul collegamento ferroviario Torino-Lione redatta dal gruppo di lavoro sulla valutazione dei progetti del MIT](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/quaderno_13.pdf)
