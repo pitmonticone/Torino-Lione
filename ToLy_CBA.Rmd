@@ -19,8 +19,10 @@ knitr::opts_chunk$set(
 * **12/2000** Relazione del gruppo di lavoro Economia e Finanza (  [Parte 1](https://www.dropbox.com/s/tdbtv00mwruouqn/documento%20CIG%201-2.pdf?dl=0) ; [Parte 2](https://www.dropbox.com/s/tg8t8tef9oynp7s/documento%20CIG%202-2.pdf?dl=0) )
 
 ### Ministero Infrastrutture e Trasporti
-* **12/02/2019** [Analisi costi-benefici del Gruppo di Lavoro sulla valutazione dei progetti](http://www.mit.gov.it/sites/default/files/media/notizia/2019-02/ACB%20nuovo%20collegamento%20ferroviario%20Torino%20-%20Lione.pdf)
+* **12/02/2019** [Nota sulla Analisi costi-benefici del nuovo collegamento ferroviario Torino - Lione redatta dal gruppo di lavoro sulla valutazione dei progetti | Pierluigi Coppola](https://pitmonticone.github.io/Torino-Lione/Nota-sulla-Analisi-costi-benefici_P.Coppola.pdf)
+* **12/02/2019** [Analisi costi-benefici del Gruppo di Lavoro sulla valutazione dei progetti](http://www.mit.gov.it/sites/default/files/media/notizia/2019-02/ACB%20nuovo%20collegamento%20ferroviario%20Torino%20-%20Lione.pdf) ( [Slide Accise-Pedaggi](https://pitmonticone.github.io/Torino-Lione/Slide Accise-Pedaggi.pdf) )
 * **12/02/2019** [Relazione tecnico-giuridica](http://www.mit.gov.it/sites/default/files/media/notizia/2019-02/Relazione%20tecnico-giuridica%20Torino-Lione.pdf)
+
 
 ### Osservatorio CPI
 * **19/12/2019** [Commento all’Analisi costi-benefici del nuovo collegamento ferroviario Torino-Lione](https://osservatoriocpi.unicatt.it/cpi-archivio-studi-e-analisi-commento-all-analisi-costi-benefici-del-nuovo-collegamento-ferroviario)
