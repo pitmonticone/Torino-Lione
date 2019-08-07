@@ -22,6 +22,9 @@ knitr::opts_chunk$set(
 * **12/02/2019** [Analisi costi-benefici del Gruppo di Lavoro sulla valutazione dei progetti](http://www.mit.gov.it/sites/default/files/media/notizia/2019-02/ACB%20nuovo%20collegamento%20ferroviario%20Torino%20-%20Lione.pdf)
 * **12/02/2019** [Relazione tecnico-giuridica](http://www.mit.gov.it/sites/default/files/media/notizia/2019-02/Relazione%20tecnico-giuridica%20Torino-Lione.pdf)
 
+### Osservatorio CPI
+* **19/12/2019** [Commento all’Analisi costi-benefici del nuovo collegamento ferroviario Torino-Lione](https://osservatoriocpi.unicatt.it/cpi-archivio-studi-e-analisi-commento-all-analisi-costi-benefici-del-nuovo-collegamento-ferroviario)
+
 ### Osservatorio Torino-Lione
 * **05/2007** [Quaderno 1 | Linea storica - Tratta di valico](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/Quaderno1.pdf)
 * **06/2007** [Quaderno 2 | Scenari di traffico - Arco Alpino](http://presidenza.governo.it/osservatorio_torino_lione/quaderni/Quaderno2.pdf)
