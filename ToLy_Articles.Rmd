@@ -64,9 +64,8 @@ knitr::opts_chunk$set(
 * **26/02/2019** [Analisi Tav: a ciascuno il suo punto di vista | Paolo Beria et al.](https://www.lavoce.info/archives/57772/torino-lione-dove-sbaglia-la-contestazione-allanalisi-costi-benefici/)
 * **06/03/2019** [Annullare la Tav? Cronaca di uno spreco annunciato | Roberto Camagni](https://www.lavoce.info/archives/57932/annullare-la-tav-cronaca-di-uno-spreco-annunciato/)
 
-
-
-
+### Scienza in Rete
+* **24/03/2019** [TAV Torino-Lione: analisi costi-benefici a confronto | Fabio Pasquali](https://www.scienzainrete.it/articolo/tav-torino-lione-analisi-costi-benefici-confronto/fabio-pasquali/2019-03-24)
 
 
 
