@@ -1,5 +1,5 @@
 ---
-title: "Papers & Reports"
+title: "Referenze Tecniche"
 output:
  prettydoc::html_pretty:
     theme: cayman

@@ -16,6 +16,9 @@ knitr::opts_chunk$set(
 ### AGI
 * **25/07/2019** [TAV: LA VERITÀ DEI FATTI | Un super fact-checking in 35 domande e risposte sul più importante progetto infrastrutturale in Italia](https://www.agi.it/saperetutto/tav_torino_lione_costi_effetti-4451507/longform/2018-10-12/)
 
+### Avvenire
+* **02/02/2019** [Andrea Boitani: «Per la Tav tre scenari, nessuno a costo zero»](https://www.avvenire.it/attualita/pagine/andrea-boitani-tav)
+
 ### Corriere della Sera 
 * **26/06/2019** [Ponti: «Sulla Tav Toninelli è come Delrio e il Pd. La mia analisi mai applicata, usata solo per fini politici»](https://www.corriere.it/politica/19_giugno_26/ponti-sulla-tav-toninelli-come-delrio-pd-mia-analisi-mai-applicata-usata-solo-fini-politici-edbc365e-984c-11e9-ab34-56b2d57d687f.shtml)
 
@@ -27,6 +30,7 @@ knitr::opts_chunk$set(
 
 ### Istituto Bruno Leoni
 
+* **16/04/2007** [BP 41. TAV: le ragioni liberali del no | Andrea Boitani et al.](http://www.brunoleoni.it/bp-41-tav-le-ragioni-liberali-del-no)
 * **30/10/2014** [Tav, i conti non tornano (e non da oggi) | Francesco Ramella](http://www.brunoleoni.it/tav-i-conti-non-tornano-e-non-da-oggi)
 * **22/05/2018** [Tav Torino-Lione, ecco perché lo stop è possibile | Francesco Ramella](http://www.brunoleoni.it/tav-torino-lione-ecco-perche-lo-stop-e-possibile)
 * **15/03/2019** [TAV e politica delle infrastrutture | Alberto Mingardi](http://www.brunoleoni.it/tav-e-politica-delle-infrastrutture)
