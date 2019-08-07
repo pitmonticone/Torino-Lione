@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 
 # Youtube 
 
+* **3/03/2012** : TAV, Ne vale davvero la pena? ( [Parte 1](https://www.youtube.com/watch?v=uMUArp1_sk4&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=82&t=0s) ; [Parte 2](https://www.youtube.com/watch?v=j39NVd-vy8Y&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=85&t=0s) ; [Parte 3](https://www.youtube.com/watch?v=zcHDDcDCRD0&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=79&t=0s) )
 * **14/11/2018** [TAV Torino-Lione | Ponti e Foietta a Porta a Porta](https://www.youtube.com/watch?v=VNcj9q17oqM&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=3&t=0s)
 * **20/02/2019** [TAV Torino-Lione | Giuricin a LiberiOltre 1](https://www.youtube.com/watch?v=JHsgtkEcWGg&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=41&frags=pl%2Cwn)
 * **08/03/2019** [TAV Torino-Lione | Ponti a Open](https://www.youtube.com/watch?v=igd2M7ZU2xk&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=2&t=0s&frags=pl%2Cwn)
@@ -23,11 +24,10 @@ knitr::opts_chunk$set(
 * **30/07/2019** [TAV Torino-Lione | Giuricin a LiberiOltre 2](https://www.youtube.com/watch?v=Yt2txVsxIqQ&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=6&t=0s)
 * **30/07/2019** [TAV Torino-Lione | Ramella a Unomattina](https://www.youtube.com/watch?v=zKJA0T93iV4)
 
-#### Il Fatto Quotidiano 
-* **3/03/2012** : TAV, Ne vale davvero la pena? ( [Parte 1](https://www.youtube.com/watch?v=uMUArp1_sk4&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=82&t=0s) ; [Parte 2](https://www.youtube.com/watch?v=j39NVd-vy8Y&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=85&t=0s) ; [Parte 3](https://www.youtube.com/watch?v=zcHDDcDCRD0&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=79&t=0s) )
-
 #### Politecnico di Torino 
 * **04/11/2011** [TAV Torino-Lione | Dibattito](https://www.youtube.com/watch?v=aQPxTRDpeto)
+* **22/11/2018** [TAV Torino-Lione | Dibattito](https://www.facebook.com/Alterpolis/videos/tav-torino-lione-dibattito-al-politecnico/196793061240455/)
+
 
 #### Commissione Trasporti 
 * **13/02/2019** [TAV Torino-Lione | Audizione Parlamentare](https://www.youtube.com/watch?v=mQqKbHmPKT0&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=1)
