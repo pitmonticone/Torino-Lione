@@ -1,5 +1,5 @@
 ---
-title: "Referenze Tecniche"
+title: "Bibliografia"
 output:
  prettydoc::html_pretty:
     theme: cayman
