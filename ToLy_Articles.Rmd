@@ -22,6 +22,9 @@ knitr::opts_chunk$set(
 ### Corriere della Sera 
 * **26/06/2019** [Ponti: «Sulla Tav Toninelli è come Delrio e il Pd. La mia analisi mai applicata, usata solo per fini politici»](https://www.corriere.it/politica/19_giugno_26/ponti-sulla-tav-toninelli-come-delrio-pd-mia-analisi-mai-applicata-usata-solo-fini-politici-edbc365e-984c-11e9-ab34-56b2d57d687f.shtml)
 
+### gli immoderati
+* **07/08/2019** [I Fatti (scevri dalle Opinioni) sulla TAV](https://www.immoderati.it/2019/08/07/i-fatti-scevri-dalle-opinioni-sulla-tav/)
+
 ### Il Foglio
 * **04/03/2019** [Salvate il soldato Ponti | Carlo Stagnaro](https://www.ilfoglio.it/economia/2019/03/04/news/salvate-il-soldato-ponti-241194/)
 
