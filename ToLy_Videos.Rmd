@@ -32,7 +32,7 @@ knitr::opts_chunk$set(
 #### Commissione Trasporti 
 * **13/02/2019** [TAV Torino-Lione | Audizione Parlamentare](https://www.youtube.com/watch?v=mQqKbHmPKT0&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=1)
 
-#### Collegio Carlo Alberto
+#### Collegio Carlo Alberto | Fondamenti tecnici dell’analisi costi-benefici
 * **28/02/2019** [ACB Torino-Lione | Introduzione di Navaretti](https://www.youtube.com/watch?v=mQqKbHmPKT0&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=1)
 * **28/02/2019** [ACB Torino-Lione | Presentazione di Ponti](https://www.youtube.com/watch?v=20mKt8Kh5H0&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=2) ([Slides](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.carloalberto.org%2Fwp-content%2Fuploads%2F2019%2F02%2FPONTI-E-RAMELLA.pdf&redir_token=3bPmy0jsoC0hWuj3ktMYh4wOBcZ8MTU2NTIyMTU4N0AxNTY1MTM1MTg3&v=20mKt8Kh5H0&event=video_description))
 * **28/02/2019** [ACB Torino-Lione | Presentazione di Ramella](https://www.youtube.com/watch?v=lW6IKDl7JbM&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=3) ([Slides](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.carloalberto.org%2Fwp-content%2Fuploads%2F2019%2F02%2FPONTI-E-RAMELLA.pdf&redir_token=3bPmy0jsoC0hWuj3ktMYh4wOBcZ8MTU2NTIyMTU4N0AxNTY1MTM1MTg3&v=20mKt8Kh5H0&event=video_description))
@@ -42,7 +42,7 @@ knitr::opts_chunk$set(
 * **28/02/2019** [ACB Torino-Lione | Dibattito](https://www.youtube.com/watch?v=qxINLeIADlw&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=7)
 * **28/02/2019** [ACB Torino-Lione | Q&A](https://www.youtube.com/watch?v=nat_-8_Z9Gk&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=8)
 
-#### Transport Research Lab 
+#### Transport Research Lab | Valutare la TAV: Missione Impossibile ?
 * **25/06/2019** [ACB Torino-Lione | Pasquali e Ramella](https://www.youtube.com/watch?v=nat_-8_Z9Gk&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=8)
 
 # Rai 
