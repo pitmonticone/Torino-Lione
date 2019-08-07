@@ -28,6 +28,9 @@ knitr::opts_chunk$set(
 * **04/08/2019** [Tav Torino-Lione, gli ingegneri bocciano l’analisi costi-benefici | Carlo Andrea Finotto](https://www.ilsole24ore.com/art/tav-torino-lione-ingegneri-bocciano-analisi-scelta-sostenibile-e-strategica-ACOZLtc)
 * **05/08/2019** [Tav, tra opere strategiche e analisi costi-benefici: la replica | Francesco Ramella et al.](https://www.ilsole24ore.com/art/tav-opere-strategiche-e-analisi-costi-benefici-replica-ACdu8Ld)
 
+### Il Fatto Quotidiano
+* **26/07/2019** [Tav, l’intervento del tecnico dell’analisi costi-benefici: “Tante bugie, dal ‘cambiamento’ son tornati a Delrio” | Francesco Ramella](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/07/26/sul-tav-tante-bugie-dal-cambiamento-son-tornati-a-delrio/5350316/)
+
 ### Istituto Bruno Leoni
 
 * **16/04/2007** [BP 41. TAV: le ragioni liberali del no | Andrea Boitani et al.](http://www.brunoleoni.it/bp-41-tav-le-ragioni-liberali-del-no)
@@ -39,7 +42,11 @@ knitr::opts_chunk$set(
 * **08/03/2019** [Tav, società Marco Ponti firma studio Ue pro alta velocità. La replica: "Non è un'analisi costi-benefici"](https://video.repubblica.it/dossier/tav-torino-lione/tav-societa-marco-ponti-firma-studio-ue-pro-alta-velocita-la-replica-non-e-un-analisi-costi-benefici/328958/329556)
 
 ### lavoce.info 
-
+* **08/03/2007** [TAV Torino-Lione: parlando e sparlando | Francesco Ramella](https://www.lavoce.info/archives/24138/tav-parlando-e-sparlando/)
+* **12/02/2010** [TAV Torino-Lione: vale la spesa?](https://www.lavoce.info/archives/27077/tav-torino-lione-come-dimostrare-lindimostrabile/)
+* **26/07/2011** [TAV Torino-Lione: Come dimostrare l'indimostrabile | Marco Ponti et al.](https://www.lavoce.info/archives/27077/tav-torino-lione-come-dimostrare-lindimostrabile/)
+* **04/03/2014** [Renzi alla prova dei fatti sui trasporti | Francesco Ramella](https://www.lavoce.info/archives/17632/renzi-trasporti-tav/)
+* **17/11/2014** [TAV e grandi opere: non è solo un problema di costi | Paolo Beria et al.](https://www.lavoce.info/archives/31488/tav-grandi-opere-non-problema-costi/)
 * **31/07/2018** [La project review e la ferrovia Torino-Lione | Andrea Boitani](https://www.lavoce.info/archives/54463/le-project-review-e-la-torino-lione/)
 * **25/01/2019** [Costi e benefici delle nuove linee ferroviarie: chi ha ragione? | Massimo Tavoni et al.](https://www.lavoce.info/archives/57218/costi-e-benefici-delle-nuove-linee-ferroviarie-chi-ha-ragione-3/)
 * **29/01/2019** [Perché facciamo così l’analisi costi-benefici | Paolo Beria et al.](https://www.lavoce.info/archives/57592/la-tav-della-discordia/)
