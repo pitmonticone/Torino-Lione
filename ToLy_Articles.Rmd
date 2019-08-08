@@ -22,7 +22,7 @@ knitr::opts_chunk$set(
 ### Corriere della Sera 
 * **26/06/2019** [Ponti: «Sulla Tav Toninelli è come Delrio e il Pd. La mia analisi mai applicata, usata solo per fini politici»](https://www.corriere.it/politica/19_giugno_26/ponti-sulla-tav-toninelli-come-delrio-pd-mia-analisi-mai-applicata-usata-solo-fini-politici-edbc365e-984c-11e9-ab34-56b2d57d687f.shtml)
 
-### gli immoderati
+### Gli Immoderati
 * **07/08/2019** [I Fatti (scevri dalle Opinioni) sulla TAV](https://www.immoderati.it/2019/08/07/i-fatti-scevri-dalle-opinioni-sulla-tav/)
 
 ### Il Foglio
@@ -69,6 +69,9 @@ knitr::opts_chunk$set(
 
 ### Scienza in Rete
 * **24/03/2019** [TAV Torino-Lione: analisi costi-benefici a confronto | Fabio Pasquali](https://www.scienzainrete.it/articolo/tav-torino-lione-analisi-costi-benefici-confronto/fabio-pasquali/2019-03-24)
+
+### Valigia Blu
+* **08/12/2019** [TAV Torino-Lione: a che punto sono i lavori, i costi-benefici, il dibattito pro e contro](https://www.valigiablu.it/tav-torino-lione-lavori-costi/)
 
 
 
