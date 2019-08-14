@@ -13,6 +13,9 @@ knitr::opts_chunk$set(
 	warning = FALSE
 )
 ```
+## Engineering
+* **12/2016** [High-Speed Rail: Opportunities and Threats](https://www.sciencedirect.com/science/article/pii/S2095809917300760)
+
 ## European Commision 
 * **01/07/2008** [Guide to cost-benefit analysis of investment projects](https://ec.europa.eu/regional_policy/en/information/publications/evaluations-guidance-documents/2008/guide-to-cost-benefit-analysis-of-investment-projects)
 * **08/01/2014** [Update of the Handbook on External Costs of Transport](https://ec.europa.eu/transport/sites/transport/files/handbook_on_external_costs_of_transport_2014_0.pdf)
@@ -28,10 +31,27 @@ knitr::opts_chunk$set(
 ## ISPRA
 * **15/05/2018** [L’inventario nazionale di gas serra](http://www.isprambiente.gov.it/files2018/eventi/gas-serra/DeLauretisTrend_GHG201810284.pdf)
 
+## Journal of Rail Transport Planning & Management
+* **02/2013** [A note on high-speed rail investments and travelers’ value of time](https://www.sciencedirect.com/science/article/pii/S2210970613000188)
+* **05/2015** [When to invest in high speed rail](https://www.sciencedirect.com/science/article/pii/S2210970615000037)
+
+## Journal of Transport Geography
+* **05/2015** [High Speed Rail in Britain: about time or a waste of time?](https://www.sciencedirect.com/science/article/abs/pii/S096669231200066X)
+
 ## Ministère de la Transition écologique et solidaire
 * **28/03/2017** [Évaluation des projets de transport](https://www.ecologique-solidaire.gouv.fr/evaluation-des-projets-transport)
 
 ## Ministero Infrastrutture e Trasporti
 * **06/06/2017** [Linee guida per la valutazione degli investimenti in opere pubbliche nei settori di competenza del Ministero delle Infrastrutture e dei Trasporti](http://www.mit.gov.it/index.php/node/5272)
 
+## Transportation Policy
+* **07/2015** [When supply travels far beyond demand: Causes of oversupply in Spain's transport infrastructure](https://www.sciencedirect.com/science/article/abs/pii/S0967070X15000414)
+* **02/2018** [Can high-speed rail have a transformative effect on the economy?](https://www.sciencedirect.com/science/article/abs/pii/S0967070X17301002)
+* **10/2018** [Delusions of success: Costs and demand of high-speed rail in Italy and Spain](https://www.sciencedirect.com/science/article/abs/pii/S0967070X17306194)
 
+## Transportation Research
+* **10/2016** [The impact of high-speed rail investment on economic and environmental change in China: A dynamic CGE analysis](https://www.sciencedirect.com/science/article/pii/S0965856416306681?via%3Dihub)
+
+## Transportation Research Procedia
+* **10/2016** [Wider economic impacts of high-speed rail: example of agglomeration benefits assessment on Bretagne Pays de Loire high speed rail project](https://www.sciencedirect.com/science/article/pii/S2352146518300607)
+* **2017** [Towards oversized high-speed rail systems? Some lessons from France and Spain](https://www.sciencedirect.com/science/article/pii/S2352146517307214)

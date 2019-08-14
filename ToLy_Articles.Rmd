@@ -13,11 +13,22 @@ knitr::opts_chunk$set(
 	warning = FALSE
 )
 ```
+### Accademia della Crusca
+* **02/11/2015** [Il TAV e la TAV](http://www.accademiadellacrusca.it/it/lingua-italiana/consulenza-linguistica/domande-risposte/tav-tav)
+
 ### AGI
 * **25/07/2019** [TAV: LA VERITÀ DEI FATTI | Un super fact-checking in 35 domande e risposte sul più importante progetto infrastrutturale in Italia](https://www.agi.it/saperetutto/tav_torino_lione_costi_effetti-4451507/longform/2018-10-12/)
 
 ### Avvenire
 * **02/02/2019** [Andrea Boitani: «Per la Tav tre scenari, nessuno a costo zero»](https://www.avvenire.it/attualita/pagine/andrea-boitani-tav)
+
+### behavioraleconomics.com
+* [Action bias](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/action-bias/)
+* [Cognitive bias](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/cognitive-bias/)
+* [Heuristic](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/heuristic/)
+* [Optimism bias](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/optimism-bias/)
+* [Sunk cost fallacy](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/sunk-cost-fallacy/)
+* [Utility](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/utility/)
 
 ### Corriere della Sera 
 * **26/06/2019** [Ponti: «Sulla Tav Toninelli è come Delrio e il Pd. La mia analisi mai applicata, usata solo per fini politici»](https://www.corriere.it/politica/19_giugno_26/ponti-sulla-tav-toninelli-come-delrio-pd-mia-analisi-mai-applicata-usata-solo-fini-politici-edbc365e-984c-11e9-ab34-56b2d57d687f.shtml)
@@ -29,6 +40,7 @@ knitr::opts_chunk$set(
 * **04/03/2019** [Salvate il soldato Ponti | Carlo Stagnaro](https://www.ilfoglio.it/economia/2019/03/04/news/salvate-il-soldato-ponti-241194/)
 
 ### Il Sole 24 Ore
+* **12/02/2019** [Tav, i francesi: analisi di parte, considera i benefici ambientali come un costo](https://www.ilsole24ore.com/art/tav-francesi-analisi-parte-considera-benefici-ambientali-come-costo-ABnZRNTB)
 * **17/02/2019** [Tav, l’analisi costi-benefici valuta solo l’efficienza | Marco Ponti et al.](https://www.ilsole24ore.com/art/tav-l-analisi-costi-benefici-valuta-solo-l-efficienza-ABQ8uuUB)
 * **25/06/2019** [Tav, via libera ai bandi di gara per il lato italiano del tunnel](https://www.ilsole24ore.com/art/salvini-tav-leggera-a-me-piacciono-treni-che-corrono-ACSZfTU)
 * **26/06/2019** [Tav, tutte le date chiave per il futuro dell’opera](https://www.ilsole24ore.com/art/tav-tutte-date-chiave-il-futuro-dell-opera-ACfMclU)
@@ -39,6 +51,7 @@ knitr::opts_chunk$set(
 
 ### Il Fatto Quotidiano
 * **26/07/2019** [Tav, l’intervento del tecnico dell’analisi costi-benefici: “Tante bugie, dal ‘cambiamento’ son tornati a Delrio” | Francesco Ramella](https://www.ilfattoquotidiano.it/in-edicola/articoli/2019/07/26/sul-tav-tante-bugie-dal-cambiamento-son-tornati-a-delrio/5350316/)
+* **15/02/2019** [Tav, l’analisi costi-benefici mette fine alla questione? La risposta è no | Massimo Famularo](https://www.ilfattoquotidiano.it/2019/02/15/tav-lanalisi-costi-benefici-mette-fine-alla-questione-la-risposta-e-no/4974392/)
 
 ### Istituto Bruno Leoni
 
@@ -56,6 +69,7 @@ knitr::opts_chunk$set(
 * **26/07/2011** [TAV Torino-Lione: Come dimostrare l'indimostrabile | Marco Ponti et al.](https://www.lavoce.info/archives/27077/tav-torino-lione-come-dimostrare-lindimostrabile/)
 * **04/03/2014** [Renzi alla prova dei fatti sui trasporti | Francesco Ramella](https://www.lavoce.info/archives/17632/renzi-trasporti-tav/)
 * **17/11/2014** [TAV e grandi opere: non è solo un problema di costi | Paolo Beria et al.](https://www.lavoce.info/archives/31488/tav-grandi-opere-non-problema-costi/)
+* **07/11/2017** [Sui binari un investimento di sola andata | Marco Ponti](https://www.lavoce.info/archives/49316/sui-binari-un-investimento-sola-andata/)
 * **31/07/2018** [La project review e la ferrovia Torino-Lione | Andrea Boitani](https://www.lavoce.info/archives/54463/le-project-review-e-la-torino-lione/)
 * **25/01/2019** [Costi e benefici delle nuove linee ferroviarie: chi ha ragione? | Massimo Tavoni et al.](https://www.lavoce.info/archives/57218/costi-e-benefici-delle-nuove-linee-ferroviarie-chi-ha-ragione-3/)
 * **29/01/2019** [Perché facciamo così l’analisi costi-benefici | Paolo Beria et al.](https://www.lavoce.info/archives/57592/la-tav-della-discordia/)
