@@ -38,6 +38,10 @@ knitr::opts_chunk$set(
 ## Journal of Transport Geography
 * **05/2015** [High Speed Rail in Britain: about time or a waste of time?](https://www.sciencedirect.com/science/article/abs/pii/S096669231200066X)
 
+## Libri Divulgativi
+* **08/2018** [The Cost-Benefit Revolution | Cass Sunstein](https://mitpress.mit.edu/books/cost-benefit-revolution?utm_source=medium&utm_medium=socical&utm_campaign=f18_trade_sunstein)
+* **12/2018** [Trasporti : Conoscere per deliberare | Marco Ponti & Francesco Ramella](https://www.amazon.it/Trasporti-Conoscere-deliberare-Marco-Ponti/dp/8823846099)
+
 ## Ministère de la Transition écologique et solidaire
 * **28/03/2017** [Évaluation des projets de transport](https://www.ecologique-solidaire.gouv.fr/evaluation-des-projets-transport)
 
