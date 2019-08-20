@@ -18,7 +18,9 @@ knitr::opts_chunk$set(
 
 * **3/03/2012** : TAV, Ne vale davvero la pena? ( [Parte 1](https://www.youtube.com/watch?v=uMUArp1_sk4&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=82&t=0s) ; [Parte 2](https://www.youtube.com/watch?v=j39NVd-vy8Y&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=85&t=0s) ; [Parte 3](https://www.youtube.com/watch?v=zcHDDcDCRD0&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=79&t=0s) )
 * **14/11/2018** [TAV Torino-Lione | Ponti e Foietta a Porta a Porta](https://www.youtube.com/watch?v=VNcj9q17oqM&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=3&t=0s)
+* **15/02/2019** [TAV Torino-Lione | Roberto Zucchetti](https://youtu.be/JKXia7c3LuA)
 * **20/02/2019** [TAV Torino-Lione | Giuricin a LiberiOltre 1](https://www.youtube.com/watch?v=JHsgtkEcWGg&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=41&frags=pl%2Cwn)
+* **01/03/2019** [TAV Torino-Lione | Roberto Zucchetti a Wall Street Italia](https://youtu.be/OJevjDzNgUM)
 * **08/03/2019** [TAV Torino-Lione | Ponti a Open](https://www.youtube.com/watch?v=igd2M7ZU2xk&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=2&t=0s&frags=pl%2Cwn)
 * **28/03/2019** [TAV Torino-Lione | Ponti a Fatti & Misfatti](https://www.youtube.com/watch?v=2M5rboUbTRU&feature=youtu.be)
 * **25/07/2019** [TAV Torino-Lione | Ponti e Giuricin a Sky Tg24 Economia](https://www.youtube.com/watch?v=H57gsZftPB8&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=9&t=0s)
@@ -29,11 +31,10 @@ knitr::opts_chunk$set(
 * **04/11/2011** [TAV Torino-Lione | Dibattito](https://www.youtube.com/watch?v=aQPxTRDpeto)
 * **22/11/2018** [TAV Torino-Lione | Dibattito](https://www.facebook.com/Alterpolis/videos/tav-torino-lione-dibattito-al-politecnico/196793061240455/)
 
-
 #### Commissione Trasporti 
 * **13/02/2019** [TAV Torino-Lione | Audizione Parlamentare](https://www.youtube.com/watch?v=mQqKbHmPKT0&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=1)
 
-#### Collegio Carlo Alberto | Fondamenti tecnici dell’analisi costi-benefici
+#### Collegio Carlo Alberto 
 * **28/02/2019** [ACB Torino-Lione | Introduzione di Navaretti](https://www.youtube.com/watch?v=mQqKbHmPKT0&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=1)
 * **28/02/2019** [ACB Torino-Lione | Presentazione di Ponti](https://www.youtube.com/watch?v=20mKt8Kh5H0&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=2) ([Slides](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.carloalberto.org%2Fwp-content%2Fuploads%2F2019%2F02%2FPONTI-E-RAMELLA.pdf&redir_token=3bPmy0jsoC0hWuj3ktMYh4wOBcZ8MTU2NTIyMTU4N0AxNTY1MTM1MTg3&v=20mKt8Kh5H0&event=video_description))
 * **28/02/2019** [ACB Torino-Lione | Presentazione di Ramella](https://www.youtube.com/watch?v=lW6IKDl7JbM&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=3) ([Slides](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.carloalberto.org%2Fwp-content%2Fuploads%2F2019%2F02%2FPONTI-E-RAMELLA.pdf&redir_token=3bPmy0jsoC0hWuj3ktMYh4wOBcZ8MTU2NTIyMTU4N0AxNTY1MTM1MTg3&v=20mKt8Kh5H0&event=video_description))
@@ -43,11 +44,14 @@ knitr::opts_chunk$set(
 * **28/02/2019** [ACB Torino-Lione | Dibattito](https://www.youtube.com/watch?v=qxINLeIADlw&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=7)
 * **28/02/2019** [ACB Torino-Lione | Q&A](https://www.youtube.com/watch?v=nat_-8_Z9Gk&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=8)
 
-#### Transport Research Lab | Valutare la TAV: Missione Impossibile ?
-* **25/06/2019** [ACB Torino-Lione | Pasquali e Ramella](https://www.youtube.com/watch?v=nat_-8_Z9Gk&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=8)
+#### Unione Culturale Franco Antonicelli
+* **05/03/2019** [TAV Torino-Lione | Dibattito : Tartaglia & Zucchetti](https://youtu.be/449VCPNwp9w)
 
 #### Palazzo Chigi 
 * **07/03/2019** [TAV Torino-Lione | Conferenza Stampa del Presidente Conte](https://www.youtube.com/watch?v=Qvm1orfoS-I)
+
+#### Transport Research Lab | Valutare la TAV: Missione Impossibile ?
+* **25/06/2019** [ACB Torino-Lione | Pasquali e Ramella](https://www.youtube.com/watch?v=nat_-8_Z9Gk&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=8)
 
 # Rai 
 
