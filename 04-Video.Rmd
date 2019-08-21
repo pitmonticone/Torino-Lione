@@ -14,13 +14,30 @@ knitr::opts_chunk$set(
 )
 ```
 
+## Rai 
+
+### Agorà
+* **13/02/2019** [L'ora della veritav](https://www.raiplay.it/video/2019/02/Agora-08f662e7-67fc-4a1f-ad11-281e5b366715.html)
+
+### Porta a Porta 
+* **31/10/2018** [NO TAV](https://www.raiplay.it/video/2018/11/NO-TAV-31102018-47c00dbd-74fd-4bb8-8f72-b445d40d4dbc.html)
+
+### Report 
+* **06/05/2019** [Dentro il tunnel](https://www.raiplay.it/video/2019/05/Dentro-il-tunnel---06052019-02262afb-604e-4413-b196-47fcfd972c2a.html)
+
+### Unomattina 
+* **14/02/2019** [Il caso TAV](https://www.raiplay.it/video/2019/02/Tav---14022019-5ac524c9-7bd3-4c94-8a44-d96a7f2afe4e.html)
+
+
+
 ## Youtube 
 
-* **3/03/2012** : TAV, Ne vale davvero la pena? ( [Parte 1](https://www.youtube.com/watch?v=uMUArp1_sk4&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=82&t=0s) ; [Parte 2](https://www.youtube.com/watch?v=j39NVd-vy8Y&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=85&t=0s) ; [Parte 3](https://www.youtube.com/watch?v=zcHDDcDCRD0&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=79&t=0s) )
+* **3/03/2012** *TAV, Ne vale davvero la pena?* ( [Parte 1](https://www.youtube.com/watch?v=uMUArp1_sk4&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=82&t=0s) ; [Parte 2](https://www.youtube.com/watch?v=j39NVd-vy8Y&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=85&t=0s) ; [Parte 3](https://www.youtube.com/watch?v=zcHDDcDCRD0&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=79&t=0s) )
 * **14/11/2018** [TAV Torino-Lione | Ponti e Foietta a Porta a Porta](https://www.youtube.com/watch?v=VNcj9q17oqM&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=3&t=0s)
 * **15/02/2019** [TAV Torino-Lione | Roberto Zucchetti](https://youtu.be/JKXia7c3LuA)
 * **20/02/2019** [TAV Torino-Lione | Giuricin a LiberiOltre 1](https://www.youtube.com/watch?v=JHsgtkEcWGg&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=41&frags=pl%2Cwn)
 * **01/03/2019** [TAV Torino-Lione | Roberto Zucchetti a Wall Street Italia](https://youtu.be/OJevjDzNgUM)
+* **08/03/2019** [TAV Torino-Lione | Ponti a MattinoCinque](https://youtu.be/RtGZF0_POv4)
 * **08/03/2019** [TAV Torino-Lione | Ponti a Open](https://www.youtube.com/watch?v=igd2M7ZU2xk&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=2&t=0s&frags=pl%2Cwn)
 * **28/03/2019** [TAV Torino-Lione | Ponti a Fatti & Misfatti](https://www.youtube.com/watch?v=2M5rboUbTRU&feature=youtu.be)
 * **25/07/2019** [TAV Torino-Lione | Ponti e Giuricin a Sky Tg24 Economia](https://www.youtube.com/watch?v=H57gsZftPB8&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=9&t=0s)
@@ -52,17 +69,3 @@ knitr::opts_chunk$set(
 
 ### Transport Research Lab 
 * **25/06/2019** [ACB Torino-Lione | Pasquali e Ramella](https://www.youtube.com/watch?v=nat_-8_Z9Gk&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=8)
-
-## Rai 
-
-### Agorà
-* **13/02/2019** [L'ora della veritav](https://www.raiplay.it/video/2019/02/Agora-08f662e7-67fc-4a1f-ad11-281e5b366715.html)
-
-### Porta a Porta 
-* **31/10/2018** [NO TAV](https://www.raiplay.it/video/2018/11/NO-TAV-31102018-47c00dbd-74fd-4bb8-8f72-b445d40d4dbc.html)
-
-### Report 
-* **06/05/2019** [Dentro il tunnel](https://www.raiplay.it/video/2019/05/Dentro-il-tunnel---06052019-02262afb-604e-4413-b196-47fcfd972c2a.html)
-
-### Unomattina 
-* **14/02/2019** [Il caso TAV](https://www.raiplay.it/video/2019/02/Tav---14022019-5ac524c9-7bd3-4c94-8a44-d96a7f2afe4e.html)
