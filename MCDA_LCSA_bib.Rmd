@@ -1,0 +1,95 @@
+---
+title: "MCDA-LCSA | Bibliography"
+author: "Pietro Monticone & Andrea Senacheribbe"
+output:
+ prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+    toc: true
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+### Articles 
+* **2018** [*Ranking Electricity Supplies*](https://www.diplomaticourier.com/posts/ranking-electricity-supplies)
+
+### Book Chapters
+* **2015** [*Sustainability Assessment for Energy Technologies*](https://doi.org/10.1002/9781118991978.hces070)
+* **2015** [*Environmental Life Cycle Assessment (LCA) of Energy Systems*](https://doi.org/10.1002/9781118991978.hces139)
+* **2020** [*Life cycle sustainability assessment in the energy sector*](https://doi.org/10.1016/B978-0-12-815581-3.00005-1)
+
+### Encyclopedia Sections
+* **2017** [*A Life Cycle Approach to Measuring Sustainability*](https://doi.org/10.1016/B978-0-12-409548-9.10036-3)
+* **2017** [*Integration of Life Cycle Assessment Into Decision-Analytic Approaches for Sustainable Technologies*](https://doi.org/10.1016/B978-0-12-409548-9.10037-5)
+* **2018** [*Greenhouse Gas Emissions from Energy Systems, Comparison, and Overview*](https://doi.org/10.1016/B978-0-12-809665-9.09276-4)
+* **2018** [*Sustainability Dimensions of Energy*](https://doi.org/10.1016/B978-0-12-809597-3.00104-8)
+* **2018** [*Life Cycle Assessment of Energy*](https://doi.org/10.1016/B978-0-12-809597-3.00134-6)
+* **2018** [*Environmental Dimensions of Energy*](https://doi.org/10.1016/B978-0-12-809597-3.00103-6)
+* **2018** [*Future Energy Directions*](https://doi.org/10.1016/B978-0-12-809597-3.00139-5)
+* **2018** [*Sustainability Dimensions of Energy*](https://doi.org/10.1016/B978-0-12-809597-3.00104-8)
+* **2018** [*Sustainability Dimensions of Energy*](https://doi.org/10.1016/B978-0-12-809597-3.00104-8)
+
+
+
+
+### Reports 
+* **2009** [*EU NEEDS Project*](http://www.needs-project.org)
+    - [*Sustainability criteria and indicators for assessment of electricity supply options*](http://www.needs-project.org/2009/Deliverables/RS2b%20D3.2%20-%20Criteria&Indicators.pdf)
+    - [*Final report on quantification of economic indicators*](http://www.needs-project.org/2009/Deliverables/RS2b%20D5.2%20-%20Economic%20Indicators.pdf)
+    - [*Final report on quantification of risk indicators*](http://www.needs-project.org/2009/Deliverables/RS2b%20D6.1.pdff)
+    - [*Final report on quantification of social indicators*](http://www.needs-project.org/2009/Deliverables/RS2b%20D8.1.pdf)
+    - [*Final indicator database*](http://www.needs-project.org/2009/Deliverables/RS2b_D10-1.pdf)
+    - [*Final report on sustainability assessment of advanced electricity supply options*](http://www.needs-project.org/2009/Deliverables/NEEDS_RS2b_D10-2%20-%20Final%20Report.pdf)
+    - [*Implementation, evaluation and reporting on the survey on criteria and indicators for assessment of future electricity supply options*](http://www.needs-project.org/2009/Deliverables/RS2b%20D12.3%20-%20Survey2.pdf)
+* **2014** [*EU EcoFys*](https://ec.europa.eu/energy/en/content/final-report-ecofys)
+    - [*Final report on Subsidies and costs of EU energy*](https://ec.europa.eu/energy/sites/ener/files/documents/ECOFYS%202014%20Subsidies%20and%20costs%20of%20EU%20energy_11_Nov.pdf)
+    - [*Annex 1-3*](https://ec.europa.eu/energy/sites/ener/files/documents/DESNL14583%20Final%20report%20annexes%201-3%2011%20Nov.pdf)
+    - [*Annex 4-5*](https://ec.europa.eu/energy/sites/ener/files/documents/DESNL14583%20Final%20report%20annexes%204%205%20v3.pdf)
+
+
+
+### Research & Review Papers
+* **2013** [*Life cycle assessment (LCA) of electricity generation technologies: Overview, comparability and limitations*](https://doi.org/10.1016/j.rser.2013.08.013)
+* **2014** [*Sustainability assessment of energy systems: integrating environmental, economic and social aspects*](https://doi.org/10.1016/j.jclepro.2014.05.061)
+* **2014** [*Life cycle sustainability assessment of UK electricity scenarios to 2070*](https://doi.org/10.1016/j.esd.2014.09.008)
+* **2014** [*Comparative risk assessment of severe accidents in the energy sector*](https://doi.org/10.1016/j.enpol.2014.01.035)
+* **2014** [*Energy Density and Spatial Footprints of Various Electrical Power Systems*](https://doi.org/10.1016/j.egypro.2014.11.1174)
+* **2015** [*Sustainable Production and Consumption: A Decision-Support Framework Integrating Environmental, Economic and Social Sustainability*](https://doi.org/10.1016/B978-0-444-63578-5.50017-7)
+* **2016** [*Towards sustainable production and consumption: A novel DEcision-Support Framework IntegRating Economic, Environmental and Social Sustainability (DESIRES)*](https://doi.org/10.1016/j.compchemeng.2016.03.017)
+* **2016** [*Health effects of technologies for power generation: Contributions from normal operation, severe accidents and terrorist threat*](https://doi.org/10.1016/j.ress.2015.09.013)
+* **2016** [*Multi-criteria analysis of electricity generation technologies in Lithuania*](https://doi.org/10.1016/j.renene.2015.06.032)
+* **2017** [*Life-cycle energy densities and land-take requirements of various power generators: A UK perspective*](https://doi.org/10.1016/j.joei.2016.02.003)
+* **2017** [*Understanding future emissions from low-carbon power systems by integration of life-cycle assessment and integrated energy modelling*](https://www.nature.com/articles/s41560-017-0032-9)
+* **2017** [*Health benefits, ecological threats of low-carbon electricity*](https://iopscience.iop.org/article/10.1088/1748-9326/aa6047)
+* **2017** [*Potentials, costs and environmental assessment of electricity generation technologies*](https://www.psi.ch/sites/default/files/import/ta/HomeEN/Final-Report-BFE-Project.pdf)
+* **2018** [*Sustainable Development Goals as a Guideline for Indicator Selection in Life Cycle Sustainability Assessment*](https://doi.org/10.1016/j.procir.2017.11.144)
+* **2018** [*The spatial extent of renewable and non-renewable power generation: A review and meta-analysis of power densities and their application in the U.S.*](https://doi.org/10.1016/j.enpol.2018.08.023)
+* **2018** [*Comparative Assessment of the Environmental Impacts of Hydro-Electric, Nuclear and Wind Power Plants in China: Life Cycle Considerations.*](https://doi.org/10.1016/j.egypro.2018.09.108)
+* **2018** [*Multi-criteria decision making for the prioritization of energy systems under uncertainties after life cycle sustainability assessment*](https://doi.org/10.1016/j.spc.2018.06.005)
+* **2018** [*Integrated life cycle sustainability assessment using fuzzy inference: A novel FELICITA model*](https://doi.org/10.1016/j.spc.2018.03.002)
+* **2019** [*Life-cycle sustainability assessment of key electricity generation systems in Portugal*](https://doi.org/10.1016/j.energy.2019.03.166)
+* **2019** [*A comparative life-cycle assessment of hydro-, nuclear and wind power: A China study*](https://doi.org/10.1016/j.apenergy.2019.04.099)
+* **2019** [*A systematic review of life cycle sustainability assessment: Current state, methodological challenges, and implementation issues*](https://doi.org/10.1016/j.scitotenv.2019.05.435)
+* **2019** [*Stamford, L., B. Atilgan, J. Cooper and A. Azapagic (2019). Multi-criteria decision analysis for energy policy. Chapter 39. In: Handbook of Energy Economics, CRC.*]()
+
+### Software Tools
+* **2011-2014** [*SPRIng tools*](http://www.springsustainability.org/?page=tools)
+    - [*Energy Technologies Life Cycle Assessment (ETLCA)*](http://www.springsustainability.org/?page=downloads)
+    - [*SPRIng Multi-Criteria Decision Analysis (SPRIng MCDA)*](http://www.springsustainability.org/?page=mcda)
+    - [*Scenario Sustainability Assessment Tool (SSAT) *](http://www.springsustainability.org/?page=ssat)
+* **2017** [*Supporting the multi-criteria decision aiding process: R and the MCDA package*](https://link.springer.com/article/10.1007/s40070-017-0064-1)
+* **2016** [*MCDM R Package*](https://cran.r-project.org/web/packages/MCDM/index.html)
+* **2019** [*MCDA R Package*](https://cran.r-project.org/web/packages/MCDA/index.html)
+    
+### Websites 
+* [*Electricity Map*](electricitymap.org)
+* [*Ontario Gridwatch*](https://live.gridwatch.ca/home-page.html)
+* [*Sustainable Industrial Systems*](http://www.sustainable-systems.org.uk)
+
+
+
+

@@ -62,6 +62,10 @@ knitr::opts_chunk$set(
 * **30/10/2014** [Tav, i conti non tornano (e non da oggi) | Francesco Ramella](http://www.brunoleoni.it/tav-i-conti-non-tornano-e-non-da-oggi)
 * **22/05/2018** [Tav Torino-Lione, ecco perché lo stop è possibile | Francesco Ramella](http://www.brunoleoni.it/tav-torino-lione-ecco-perche-lo-stop-e-possibile)
 * **15/03/2019** [TAV e politica delle infrastrutture | Alberto Mingardi](http://www.brunoleoni.it/tav-e-politica-delle-infrastrutture)
+* **24/08/2019** [Analisi Costi-benefici: uno strumento a tutela di contribuenti e consumatori | Francesco Ramella](http://www.brunoleoni.it/tav-e-politica-delle-infrastrutture)
+
+
+
 
 ### La Repubblica
 * **08/03/2019** [Tav, società Marco Ponti firma studio Ue pro alta velocità. La replica: "Non è un'analisi costi-benefici"](https://video.repubblica.it/dossier/tav-torino-lione/tav-societa-marco-ponti-firma-studio-ue-pro-alta-velocita-la-replica-non-e-un-analisi-costi-benefici/328958/329556)
