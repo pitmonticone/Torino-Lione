@@ -43,6 +43,8 @@ knitr::opts_chunk$set(
 * **25/07/2019** [TAV Torino-Lione | Ponti e Giuricin a Sky Tg24 Economia](https://www.youtube.com/watch?v=H57gsZftPB8&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=9&t=0s)
 * **30/07/2019** [TAV Torino-Lione | Giuricin a LiberiOltre 2](https://www.youtube.com/watch?v=Yt2txVsxIqQ&list=PL0hc3uclokfAgvPyULkWunOdBWXn7_Zjp&index=6&t=0s)
 * **30/07/2019** [TAV Torino-Lione | Ramella a Unomattina](https://www.youtube.com/watch?v=zKJA0T93iV4)
+* **30/07/2019** [TAV Torino-Lione | Esposito & Ponti a La Versiliana](https://youtu.be/rT-Rf3z9gZg)
+
 
 ### Politecnico di Torino 
 * **04/11/2011** [TAV Torino-Lione | Dibattito](https://www.youtube.com/watch?v=aQPxTRDpeto)
