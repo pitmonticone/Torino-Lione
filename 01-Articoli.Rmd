@@ -75,7 +75,8 @@ knitr::opts_chunk$set(
 * **20/09/2013** [Il realismo dei francesi taglia l’alta velocità | Ivan Beltramba](https://www.lavoce.info/archives/12906/il-realismo-dei-francesi-taglia-lalta-velocita/)
 * **23/09/2013** [Non morire di Tav | Andrea Boitani](https://www.lavoce.info/archives/12983/non-morire-di-tav/)
 * **04/03/2014** [Renzi alla prova dei fatti sui trasporti | Francesco Ramella](https://www.lavoce.info/archives/17632/renzi-trasporti-tav/)
-* **17/11/2014** [TAV e grandi opere: non è solo un problema di costi | Paolo Beria et al.](https://www.lavoce.info/archives/31488/tav-grandi-opere-non-problema-costi/)
+* **07/11/2014** [TAV e grandi opere: non è solo un problema di costi | Andrea Boitani et al.](https://www.lavoce.info/archives/31488/tav-grandi-opere-non-problema-costi/)
+* **17/11/2014** [Due filosofie per privatizzare (in parte) le Ferrovie | Paolo Beria et al.](https://www.lavoce.info/archives/31488/tav-grandi-opere-non-problema-costi/)
 * **07/11/2017** [Sui binari un investimento di sola andata | Marco Ponti](https://www.lavoce.info/archives/49316/sui-binari-un-investimento-sola-andata/)
 * **31/07/2018** [La project review e la ferrovia Torino-Lione | Andrea Boitani](https://www.lavoce.info/archives/54463/le-project-review-e-la-torino-lione/)
 * **25/01/2019** [Costi e benefici delle nuove linee ferroviarie: chi ha ragione? | Massimo Tavoni et al.](https://www.lavoce.info/archives/57218/costi-e-benefici-delle-nuove-linee-ferroviarie-chi-ha-ragione-3/)
@@ -90,6 +91,8 @@ knitr::opts_chunk$set(
 * **22/02/2019** [Perché la Tav giova al mercato? | Ferdinando Monte ](https://www.lavoce.info/archives/57704/al-dibattito-sulla-tav-manca-la-visione-di-spazi-piu-ampi/)
 * **26/02/2019** [Analisi Tav: a ciascuno il suo punto di vista | Paolo Beria et al.](https://www.lavoce.info/archives/57772/torino-lione-dove-sbaglia-la-contestazione-allanalisi-costi-benefici/)
 * **06/03/2019** [Annullare la Tav? Cronaca di uno spreco annunciato | Roberto Camagni](https://www.lavoce.info/archives/57932/annullare-la-tav-cronaca-di-uno-spreco-annunciato/)
+* **10/09/2019** [Mano leggera dell’Antitrust sulle violazioni di Ferrovie | Carlo Stagnaro](https://www.lavoce.info/archives/61035/mano-leggera-dellantitrust-sulle-violazioni-di-ferrovie/)
+
 
 ### Linkiesta
 * **06/03/2019** [L’Europa ha già condannato a morte la Tav, ma in Italia non se n’è accorto nessuno](https://www.linkiesta.it/it/article/2019/02/13/leuropa-ha-gia-condannato-a-morte-la-tav-ma-in-italia-non-se-ne-accort/41079/)
