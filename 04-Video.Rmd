@@ -73,6 +73,6 @@ knitr::opts_chunk$set(
 * **25/06/2019** [ACB Torino-Lione | Pasquali e Ramella](https://www.youtube.com/watch?v=nat_-8_Z9Gk&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=8)
 
 ### Associazione della Stampa Estera ([Volantino](https://www.ferpress.it/wp-content/uploads/2019/07/BRT_ACB_19_09_2019-2.pdf))
-* **19/09/2019** [TAV e Grandi Opere : Lo Scandalo delle Valutazioni Costi-Benefici | Il complicato rapporto tra tecnica e politica]()
+* **19/09/2019** [TAV e Grandi Opere : Lo Scandalo delle Valutazioni Costi-Benefici | Il complicato rapporto tra tecnica e politica](https://www.youtube.com/watch?v=Sl7HWmTUhbU&frags=pl%2Cwn)
 
 
