@@ -62,6 +62,7 @@ knitr::opts_chunk$set(
 * **28/02/2019** [ACB Torino-Lione | Revisione di Percoco](https://www.youtube.com/watch?v=HgznAs-7vHs&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=6)([Slides](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.carloalberto.org%2Fwp-content%2Fuploads%2F2019%2F02%2FPERCOCO.pdf&redir_token=3bPmy0jsoC0hWuj3ktMYh4wOBcZ8MTU2NTIyMTU4N0AxNTY1MTM1MTg3&v=20mKt8Kh5H0&event=video_description))
 * **28/02/2019** [ACB Torino-Lione | Dibattito](https://www.youtube.com/watch?v=qxINLeIADlw&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=7)
 * **28/02/2019** [ACB Torino-Lione | Q&A](https://www.youtube.com/watch?v=nat_-8_Z9Gk&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=8)
+* **28/02/2019** [ACB Torino-Lione | Integrale](https://www.youtube.com/watch?v=buNiGm0IesM&list=PL0hc3uclokfB7dobUlKmULBOrdcV1v3A9&index=10&t=0s)
 
 ### Unione Culturale Franco Antonicelli
 * **05/03/2019** [TAV Torino-Lione | Dibattito : Tartaglia & Zucchetti](https://youtu.be/449VCPNwp9w)
