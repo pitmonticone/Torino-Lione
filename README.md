@@ -1,4 +1,3 @@
-# TAV Torino-Lione
-## Pietro Monticone
+## TAV Torino-Lione
 
-Visita il [sito](https://pitmonticone.github.io/Torino-Lione/)
+Visit the [website](https://pitmonticone.github.io/Torino-Lione/).
