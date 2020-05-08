@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/200910255.svg)](https://zenodo.org/badge/latestdoi/200910255)
+
 ## TAV Torino-Lione
 
 Visit the [website](https://pitmonticone.github.io/Torino-Lione/).
